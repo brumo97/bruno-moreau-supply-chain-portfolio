@@ -1,0 +1,6 @@
+{
+  "name": "Bruno Moreau - Portfolio",
+  "description": "Portfolio interactif et professionnel de Bruno Moreau, spécialiste en Supply Chain, Achats & Transformation Opérationnelle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
